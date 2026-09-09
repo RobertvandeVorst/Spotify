@@ -1,0 +1,86 @@
+This repository contains several different kinds of material, and they are
+licensed differently. In short: the code is MIT, the writing and design are
+CC BY 4.0, and the audio is demonstration material rather than a music release.
+
+
+================================================================================
+1. SOFTWARE AND MODEL DEFINITIONS  —  MIT License
+================================================================================
+
+Applies to: the Power BI Project definitions (.pbip, .tmdl, report and visual
+.json files), all DAX measures, notebooks (.ipynb), and any scripts in this
+repository.
+
+Copyright (c) 2026 Robert van de Vorst
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+================================================================================
+2. DOCUMENTATION, ANALYSIS AND DESIGN  —  CC BY 4.0
+================================================================================
+
+Applies to: README.md, DOCUMENTATION.md, the written analysis and findings, the
+report screenshots, and the SVG page designs.
+
+These are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). You are free to share and adapt this material for any
+purpose, including commercially, provided you give appropriate credit, link to
+the license, and indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+  "Spotify Music Analytics" by Robert van de Vorst, CC BY 4.0
+  https://github.com/RobertvandeVorst/Spotify
+
+
+================================================================================
+3. AUDIO FILES IN Songs/  —  demonstration material
+================================================================================
+
+The MP3 files in Songs/ are not original recordings. They were generated with
+the Suno API and are included solely so that the "Make your own Hit!" page of
+the published Power BI report has audio to play, since a live generation API
+cannot be called from a public report.
+
+They are provided for demonstration and educational use in the context of this
+project. Reuse of AI-generated audio is governed by the terms of the service
+that produced it; anyone wishing to use these files outside this project should
+consult Suno's terms rather than relying on the licences above. No claim of
+ownership over the underlying model outputs is made or implied.
+
+
+================================================================================
+4. THIRD-PARTY DATA  —  not covered by this licence
+================================================================================
+
+The analysis is derived from two publicly available Kaggle datasets, which are
+governed by their own terms and are not redistributed in this repository:
+
+  - Songs Dataset
+    https://www.kaggle.com/datasets/jashanjeetsinghhh/songs-dataset
+
+  - Spotify and YouTube
+    https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
+
+Spotify, the Spotify logo, and Spotify track metadata are the property of
+Spotify AB. YouTube metrics are the property of Google LLC. This is an
+independent portfolio project and is not affiliated with, endorsed by, or
+sponsored by Spotify AB, Google LLC, or Suno, Inc.
