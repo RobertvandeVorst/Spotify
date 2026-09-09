@@ -123,6 +123,6 @@ The trade-off is worth naming: HTML-in-DAX gives precise control over styling bu
 
 ## Credits
 
-Report design made with the help of Claude, and inspired by the work of PauloGrijo, Gusbavia, nayarahellen and MariusHelle.
+Report design made with the help of Claude
 
 **Robert van de Vorst** — [LinkedIn](https://www.linkedin.com/in/robertvandevorst/)
